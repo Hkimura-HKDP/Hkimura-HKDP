@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm tryning now.
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/83801117/232263436-57905719-9656-48ef-9e33-6fc73b57b240.png)
 
 
 <!--
